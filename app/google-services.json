@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112808203786",
+    "firebase_url": "https://tzedu-a8b3d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tzedu-a8b3d",
+    "storage_bucket": "tzedu-a8b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112808203786:android:1c6e90913da40604b7b1f3",
+        "android_client_info": {
+          "package_name": "com.example.tzedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112808203786-nicdbn6sima5lll2j2fh7kbg18fnp9hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tzedu",
+            "certificate_hash": "17f5fa26ef44589d50a5cf7465a97f8d851f67b0"
+          }
+        },
+        {
+          "client_id": "112808203786-l82br69no9rd1a64l533r3mdoua16fm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBce21hfUKU7iPLYYByaEKb8wSw_Rj4eNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112808203786-l82br69no9rd1a64l533r3mdoua16fm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
